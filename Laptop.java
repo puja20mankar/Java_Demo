@@ -2,10 +2,10 @@ public class Laptop {
     String name;
     String color;
     int price;
-        public void startLaptop(){
-            System.out.println(name+ "Laptop ON");
-        }
-        public void stopLaptop{
+    public void startLaptop(){
+        System.out.println(name+ "Laptop ON");
+    }
+    public void stopLaptop{
         System.out.println(color+ "Laptop OFF");
     }
     public void LaptopDetails(){
